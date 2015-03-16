@@ -1,4 +1,4 @@
-此翻译系列来自于 [虎妞网](www.tigerbull.info)，欢迎转载，转载请注明出处，谢谢！
+此翻译系列来自于 [虎妞网](http://www.tigerbull.info)，欢迎转载，转载请注明出处，谢谢！
 
 此为开源翻译项目，github仓库为 [dockerChineseDoc](https://github.com/xiaozi0lei/dockerChineseDoc)
 
