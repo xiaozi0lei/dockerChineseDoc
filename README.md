@@ -19,7 +19,11 @@
 * ###[Release Notes](https://docs.docker.com/release-notes/)
 * ###[Understanding Docker](https://github.com/xiaozi0lei/dockerChineseDoc/blob/master/About/understanding_docker.md) --- [Blog Understaning](http://www.tigerbull.info/articles/106-20150317-dockerzhong-wen-fan-yi-xi-lie-2-li-jie-docker)
 
+***
 
 ##贡献者名单
 * xiaozi0lei@gmail.com - [虎妞网](www.tigerbull.info)
 * You are here
+
+##LICENSE
+本项目遵从 [GNU GENERAL PUBLIC LICENSE](https://github.com/xiaozi0lei/dockerChineseDoc/blob/master/LICENSE)
