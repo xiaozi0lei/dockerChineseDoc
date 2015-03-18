@@ -40,15 +40,28 @@ Docker is perfect for helping you with the development lifecycle. Docker allows 
 
 For example, your developers write code locally and share their development stack via Docker with their colleagues. When they are ready, they push their code and the stack they are developing onto a test environment and execute any required tests. From the testing environment, you can then push the Docker images into production and deploy your code.
 
+*`快速交付你的应用程序`*
+
+`Docker 非常有助于你的开发周期。Docker可以让你的开发团队在本地的容器内运行你的应用和业务。Docker可以整合到持续集成和开发的工作流中`
+
 *Deploying and scaling more easily*
 
 Docker's container-based platform allows for highly portable workloads. Docker containers can run on a developer's local host, on physical or virtual machines in a data center, or in the Cloud.
 
 Docker's portability and lightweight nature also make dynamically managing workloads easy. You can use Docker to quickly scale up or tear down applications and services. Docker's speed means that scaling can be near real time.
 
+*`很容易的部署和扩展应用程序`*
+
+`Docker 是一个为灵活便携设计的容器平台。Docker容器可以运行在开发者本地机器上，数据中心的物理机或者虚拟机上，甚至你可以在云上运行。`
+`Docker 的便携性和轻量的原生特点使动态管理负载变的很简单。你可以使用Docker快速的扩展和缩小应用程序和业务。Docker 具有近实时的扩展效果。`
+
 *Achieving higher density and running more workloads*
 
 Docker is lightweight and fast. It provides a viable, cost-effective alternative to hypervisor-based virtual machines. This is especially useful in high density environments: for example, building your own Cloud or Platform-as-a-Service. But it is also useful for small and medium deployments where you want to get more out of the resources you have.
+
+*`实现更高的密度，运行更多的负载`*
+
+`Docker 轻量的，快速的。相对于基于管理程序的虚拟机，docker 提供了一个可行的，高效的备选方案。在高密度环境中这是特别有帮助的：例如，构建你自己的云或者PaaS平台。但是当你需要更多的资源时，Docker 同样适用于小型和中型的部署环境。`
 
 ###What are the major Docker components?
 
