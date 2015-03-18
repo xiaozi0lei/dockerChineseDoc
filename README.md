@@ -3,6 +3,8 @@
 
 ***
 
+已经存在一个类似的项目[docker_practice](http://dockerpool.com/static/books/docker_practice/introduction/what.html)，大家可以直接参考阅读，我觉得翻译的很好。
+
 ##Goal
 
 此项目希望能帮助到喜欢docker技术的人们，同时希望更多的人们了解docker的技术。
