@@ -1,7 +1,7 @@
 # dockerChineseDoc
 **Docker Chinese Translation Docs**
 
-***
+![docker logo](https://raw.githubusercontent.com/xiaozi0lei/dockerChineseDoc/master/assets/docker-logo-cutoff.png)
 
 已经存在一个类似的项目[docker_practice](http://dockerpool.com/static/books/docker_practice/introduction/what.html)，大家可以直接参考阅读，我觉得翻译的很好。
 
@@ -17,9 +17,9 @@
 ##已翻译文章
 
 ##About
-* ###[Docker](https://github.com/xiaozi0lei/dockerChineseDoc/blob/master/About/about_docker.md) --- [Blog Docker](http://www.tigerbull.info/articles/103-20150316-dockerzhong-wen-fan-yi-xi-lie-1-guan-yu-docker)
-* ###[Release Notes](https://docs.docker.com/release-notes/)
-* ###[Understanding Docker](https://github.com/xiaozi0lei/dockerChineseDoc/blob/master/About/understanding_docker.md) --- [Blog Understaning](http://www.tigerbull.info/articles/106-20150317-dockerzhong-wen-fan-yi-xi-lie-2-li-jie-docker)
+* [Docker](https://github.com/xiaozi0lei/dockerChineseDoc/blob/master/About/about_docker.md) --- [Blog Docker](http://www.tigerbull.info/articles/103-20150316-dockerzhong-wen-fan-yi-xi-lie-1-guan-yu-docker)
+* [Release Notes](https://docs.docker.com/release-notes/)
+* [Understanding Docker](https://github.com/xiaozi0lei/dockerChineseDoc/blob/master/About/understanding_docker.md) --- [Blog Understaning](http://www.tigerbull.info/articles/106-20150317-dockerzhong-wen-fan-yi-xi-lie-2-li-jie-docker)
 
 ***
 
