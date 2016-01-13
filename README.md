@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [dockerChineseDoc](#dockerchinesedoc)
+  - [Goal](#goal)
+  - [已翻译文章](#%E5%B7%B2%E7%BF%BB%E8%AF%91%E6%96%87%E7%AB%A0)
+  - [About](#about)
+  - [贡献者名单](#%E8%B4%A1%E7%8C%AE%E8%80%85%E5%90%8D%E5%8D%95)
+  - [LICENSE](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # dockerChineseDoc
 **Docker Chinese Translation Docs**
 

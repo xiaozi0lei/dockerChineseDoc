@@ -1,3 +1,33 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [[Understanding Docker](http://www.tigerbull.info/)](#understanding-dockerhttpwwwtigerbullinfo)
+    - [What can I use Docker for?](#what-can-i-use-docker-for)
+    - [What are the major Docker components?](#what-are-the-major-docker-components)
+    - [What is Docker's architecture?](#what-is-dockers-architecture)
+      - [The Docker daemon](#the-docker-daemon)
+      - [The Docker client](#the-docker-client)
+      - [Inside Docker](#inside-docker)
+      - [Docker images](#docker-images)
+      - [Docker Registries](#docker-registries)
+      - [Docker containers](#docker-containers)
+    - [So how does Docker work?](#so-how-does-docker-work)
+      - [How does a Docker Image work?](#how-does-a-docker-image-work)
+      - [How does a Docker registry work?](#how-does-a-docker-registry-work)
+      - [How does a container work?](#how-does-a-container-work)
+      - [What happens when you run a container?](#what-happens-when-you-run-a-container)
+      - [The underlying technology](#the-underlying-technology)
+        - [Namespaces](#namespaces)
+        - [Control groups](#control-groups)
+        - [Union file systems](#union-file-systems)
+        - [Container format](#container-format)
+      - [Next steps](#next-steps)
+        - [Installing Docker](#installing-docker)
+        - [The Docker User Guide](#the-docker-user-guide)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 此翻译系列来自于 [虎妞网](http://www.tigerbull.info)，欢迎转载，转载请注明出处，谢谢！
 
 此为开源翻译项目，github仓库为 [dockerChineseDoc](https://github.com/xiaozi0lei/dockerChineseDoc)
